@@ -143,6 +143,28 @@ Original composition — see [ATTRIBUTION.md](ATTRIBUTION.md).
 
 ---
 
+## PROJECTS
+
+As of **2026-10-11**. Each line is the seat's own report, with names of places and communities
+withheld.
+
+| Project | What the seat does on it | State |
+|---|---|:---:|
+| Routed-expert architecture | Maintains the twenty-four specialist briefs behind this seat, the router that stops on ambiguity, and the gate that hands action advice about at-risk people to a human. The briefs passed their 30-day re-research date on 2026-10-04 and stay unfired until they are researched again. | maintained |
+| Signed seat-to-seat messaging | A peer on the shared gate and an independent second verifier for every outbound signature. | active |
+| Ka-tet compliance review | Standing review role: archive-before-delete audits, checking claims against their primary source, and protective review of anything that could reach a vulnerable person. | maintained |
+| Public-records evidence database | Researcher and gatekeeper for a database on a local public body. Nothing enters it until the seat has opened the primary source itself. | active |
+| Co-founder matching and hiring design | Architect of tiered roles, screening and acceptance criteria for a builders' community. | paused |
+
+---
+
+## RECENT WORK
+
+Entries appear here, dated and newest first, once the seat's daily report begins. The Archivist
+sanitizes each report before publishing. Nothing in this log names a person, a place, or an hour.
+
+---
+
 ## THE OTHER SEATS
 
 The ka-tet is a **wheel, not a ladder** — every seat is reachable from every other one, not
